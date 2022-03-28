@@ -8,10 +8,9 @@
             <value value="3706b3797cf5" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-28T11:21:10.414962Z" />
-        <name value="Xiaomi Redmi 5" />
-        <target value="Android 8.1" />
-        <api value="27" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
