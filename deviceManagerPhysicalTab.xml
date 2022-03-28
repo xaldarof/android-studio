@@ -5,36 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.185:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-28T09:55:07.241439Z" />
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="3706b3797cf5" />
           </Key>
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R58M75G896F" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-28T10:02:30.901997Z" />
-        <name value="samsung SM-A305FN" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
