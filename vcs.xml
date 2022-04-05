@@ -34,6 +34,14 @@
           <option name="url" value="https://gitlab.com/regist3/school-edu/android" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/readium/kotlin-toolkit/tree/main/test-app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/readium/kotlin-toolkit/tree/main/test-app/src/main/java/org/readium/r2/testapp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
