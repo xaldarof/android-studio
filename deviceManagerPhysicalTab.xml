@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R58M75G896F" />
+          </Key>
+        </key>
+        <name value="samsung SM-A305FN" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="83abe567" />
           </Key>
         </key>
@@ -32,18 +43,6 @@
         </key>
         <lastOnlineTime value="2022-04-15T07:18:50.806409Z" />
         <name value="Xiaomi Redmi Note 8 Pro" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R58M75G896F" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-15T10:25:33.356300Z" />
-        <name value="samsung SM-A305FN" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
