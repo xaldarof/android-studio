@@ -8,10 +8,9 @@
             <value value="83abe567" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-11T04:40:38.657292Z" />
-        <name value="Xiaomi M2002J9G" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -57,6 +56,18 @@
         <name value="Xiaomi Redmi Note 8 Pro" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="HEKNU20813104863" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-11T05:16:46.512476Z" />
+        <name value="HUAWEI AGS-L09" />
+        <target value="Android 8.0" />
+        <api value="26" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
