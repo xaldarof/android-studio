@@ -8,10 +8,9 @@
             <value value="83abe567" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-11T07:14:44.770257Z" />
-        <name value="Xiaomi M2002J9G" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
