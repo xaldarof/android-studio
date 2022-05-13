@@ -8,7 +8,6 @@
             <value value="83abe567" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-13T06:17:21.737605Z" />
         <name value="Xiaomi M2002J9G" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -69,6 +68,18 @@
         <name value="HUAWEI AGS-L09" />
         <target value="Android 8.0" />
         <api value="26" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3300b8940a29b2e1" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-13T06:58:49.898004Z" />
+        <name value="samsung SM-A710F" />
+        <target value="Android 7.0" />
+        <api value="24" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
