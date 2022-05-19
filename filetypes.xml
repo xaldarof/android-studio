@@ -10,6 +10,8 @@
       <mapping ext="opf" type="PLAIN_TEXT" />
       <mapping ext="preferences_pb" type="PLAIN_TEXT" />
       <mapping ext="unknown" type="SPI" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sq" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
