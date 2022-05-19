@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="epub" type="PLAIN_TEXT" />
+      <mapping ext="hprof" type="PLAIN_TEXT" />
       <mapping ext="ncx" type="PLAIN_TEXT" />
       <mapping ext="opf" type="PLAIN_TEXT" />
       <mapping ext="preferences_pb" type="PLAIN_TEXT" />
