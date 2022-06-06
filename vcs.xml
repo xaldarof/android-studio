@@ -202,6 +202,10 @@
           <option name="url" value="https://github.com/djshah17/Flutter-Sqlite-Database-Sample" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/thecodexhub/flutter-sqflite-example" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
