@@ -266,6 +266,10 @@
           <option name="url" value="https://github.com/Cerwyn/FLUTTER-SocketIO-Simple-Chat-App" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ethiel97/flutter_desktop_notes_app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
